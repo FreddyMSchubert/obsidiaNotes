@@ -16,7 +16,7 @@ I use and like it personally, figured I'd share it, maybe someone else will find
 
 ## Install / Startup Instructions
 
-1. Fork & clone this repo. Your notes will be saved in the fork. (So make it private, maybe)
+1. Clone this repo or download the files & copy the files into a clean private repo of yours.
 2. Run the startup command -> `make start`
 3. Open `localhost:3000` in your browser
 4. Click on `Quick start` to open up the files in the notes directory.
