@@ -1,6 +1,6 @@
 # ObsidiaNotes -
 
-![Meme](https://github.com/FreddyMSchubert/obsidiaNotes/blob/main/meme.png)
+![Meme](https://github.com/FreddyMSchubert/obsidiaNotes/blob/master/meme.png)
 
 ## - because Notetaking is hard.
 
